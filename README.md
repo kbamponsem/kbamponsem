@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kbamponsem a PhD Track student at Institut Polytechnique de Paris, Palaiseau, France.
+- 👋 Hi, I’m @kbamponsem a computer science PhD Track student at Institut Polytechnique de Paris, Palaiseau, France.
 - 👀 I’m interested in operating systems, distributed computing, concurrent algorithms.
 - 🌱 I’m currently learning multi-kernel design and optimization.
 - 💞️ I’m looking to collaborate on operating system design, low-level development, web design, UI/UX
